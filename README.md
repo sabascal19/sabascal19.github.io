@@ -1,4 +1,1 @@
-CURRICULUM VITAE
-
-Version 0.0.02 - 03/10/2020
-Version 0.0.01 - 03/10/2020
+CV - Sebastián Abascal
